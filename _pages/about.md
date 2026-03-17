@@ -7,9 +7,8 @@ subtitle: #<a href='#'>Affiliations</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Ningbo, Zhejiang, China</p>
+  image_circular: True # crops the image to make it circular
+  more_info: > # <p>Ningbo, Zhejiang, China</p>
 
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -26,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Computational Mathematics at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo. My research lies at the intersection of scientific machine learning, numerical partial differential equations, and optimization.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I develop neural-network-based methods for solving PDEs and designing stable and accelerated optimization algorithms. In particular, my work focuses on energy-stable acceleration frameworks that incorporate discrete energy dissipation principles into modern optimization methods.
+
+My research spans both theoretical analysis and practical algorithms, with applications to PDE solvers, deep learning optimization, and scientific computing problems.
