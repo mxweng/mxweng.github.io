@@ -159,17 +159,24 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Mathematics
-        level: Master
+      - name: Research Areas
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Scientific Machine Learning, Numerical PDEs, Optimization Algorithms"
+
+      - name: Programming
+        # level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Python (PyTorch), MATLAB, Maple, LaTeX"
 
     Languages:
       - name: Chinese
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Professional working proficiency (TOEFL: 85, CET-6: 507)"
+
+      - name: Japanese
+        summary: "Basic proficiency"
 
     # Interests:
     #   - name: Physics
