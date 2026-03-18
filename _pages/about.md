@@ -35,5 +35,4 @@ I develop scalable and adaptive algorithms based on random feature methods,
 aiming to balance approximation quality and computational cost, 
 and to improve robustness for multiscale problems and PDEs with low-regularity solutions.
 
-In parallel, I study optimization methods inspired by energy dissipation principles, 
-designing stable and accelerated schemes with improved robustness in nonconvex settings and applications to scientific machine learning.
+In parallel, I study energy-dissipation-inspired optimization methods, focusing on the stabilization of momentum-based acceleration schemes for neural network training, with improved robustness in nonconvex settings.
