@@ -113,20 +113,25 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Outstanding Poster Award, CSIAM Annual Conference
+        date: 2025-10
+        awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      # - title: Best Paper Award, AI for Mathematics Forum
+      #   date: 2025-05
+      #   awarder: Shanghai Jiao Tong University
+
+      # - title: First-Class Graduate Scholarship (twice)
+      #   date: "2019-2022"
+      #   awarder: Nankai University
+
+      - title: Outstanding Undergraduate Graduate
+        date: 2019-06
+        awarder: Fuzhou University
+
+      - title: National First Prize, Mathematical Contest in Modeling (Team Leader)
+        date: 2017-11
+        awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
