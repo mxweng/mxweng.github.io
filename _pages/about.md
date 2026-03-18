@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>
+subtitle: <i class="fa-solid fa-location-dot"></i> Room 418, Mathematics and Physics Building, EIT, Ningbo, Zhejiang, China<br><i class="fa-solid fa-envelope"></i> <a href="mailto:mxweng22@sjtu.edu.com">mxweng22@sjtu.edu.com</a>
 
 profile:
   align: right
