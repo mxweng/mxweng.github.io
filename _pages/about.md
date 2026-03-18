@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fa-solid fa-location-dot"></i> Room 418, Mathematics and Physics Building, EIT, Ningbo, Zhejiang, China<br><i class="fa-solid fa-envelope"></i> <a href="mailto:mxweng22@sjtu.edu.com">mxweng22@sjtu.edu.com</a>
+subtitle: <i class="fa-solid fa-location-dot"></i> Room 418, Mathematics and Physics Building, EIT, Ningbo, China<br><i class="fa-solid fa-envelope"></i> <a href="mailto:mxweng22@sjtu.edu.com">mxweng22@sjtu.edu.com</a>
 
 profile:
   align: right
@@ -36,4 +36,4 @@ aiming to balance approximation quality and computational cost,
 and to improve robustness for multiscale problems and PDEs with low-regularity solutions.
 
 In parallel, I study optimization methods inspired by energy dissipation principles, 
-designing stable and accelerated schemes with improved robustness in nonconvex settings.
+designing stable and accelerated schemes with improved robustness in nonconvex settings and applications to scientific machine learning.
