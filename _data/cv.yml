@@ -134,48 +134,49 @@ cv:
         awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Deep Collocation Method: A Framework for Solving PDEs Using Neural Networks with Error Control
+        authors: 
+          - M. Weng, Z. Mao, J. Shen
+        publisher: SIAM Journal on Scientific Computing
+        date: 2026
+        summary: A neural-network-based framework with error control for solving nonlinear and low-regularity PDEs.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Energy-Stabilized Acceleration for Robust Optimization
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - M. Weng, X. Liu, Z. Mao, J. Shen
+        publisher: Submitted (2026)
+        date: 2026
+        summary: Development of energy-stable accelerated optimization methods for improved convergence and robustness.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: A Semi-Bijective Algorithm for Saturated Extended 2-Regular Simple Stacks
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Q. Guo, Y. Jin, L. H. Sun, M. Weng
+        publisher: Advances in Applied Mathematics
+        date: 2023
+        summary: A combinatorial algorithm for counting structures related to RNA configurations.
 
+        
     Skills:
       - name: Research Areas
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-tag
         keywords: "Scientific Machine Learning, Numerical PDEs, Optimization Algorithms"
 
       - name: Programming
         # level: Master
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-tag
         keywords: "Python (PyTorch), MATLAB, Maple, LaTeX"
 
     Languages:
       - name: Chinese
+        icon: fa-solid fa-thumbtack
         summary: "Native speaker"
 
       - name: English
+        icon: fa-solid fa-thumbtack
         summary: "Professional working proficiency (TOEFL: 85, CET-6: 507)"
 
       - name: Japanese
+        icon: fa-solid fa-thumbtack
         summary: "Basic proficiency"
 
     # Interests:
