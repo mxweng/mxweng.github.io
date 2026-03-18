@@ -458,20 +458,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6D%78%77%65%6E%67%32%32@%73%6A%74%75.%65%64%75.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -479,11 +465,25 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=5g3_X1UAAAAJ", "_blank");
         },
       },{
-        id: 'social-google_scholar_logo',
-        title: 'Google_scholar_logo',
+        id: 'social-email_logo',
+        title: 'Email_logo',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com.hk/citations?user=5g3_X1UAAAAJ", "_blank");
+          window.open("mailto:mxweng22@sjtu.edu.com", "_blank");
+        },
+      },{
+        id: 'social-orcid_logo',
+        title: 'Orcid_logo',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0000-0000-0000", "_blank");
+        },
+      },{
+        id: 'social-researchgate_logo',
+        title: 'Researchgate_logo',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/your-profile-name", "_blank");
         },
       },{
       id: 'light-theme',
