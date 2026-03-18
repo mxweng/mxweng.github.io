@@ -25,8 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Computational Mathematics at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo. My research lies at the intersection of scientific machine learning, numerical partial differential equations, and optimization.
+I am a PhD candidate in Computational Mathematics at 
+[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) 
+and [Eastern Institute of Technology, Ningbo](https://www.eitech.edu.cn/). 
+My research focuses on scientific machine learning, numerical partial differential equations (PDEs), and optimization.
 
-I develop neural-network-based methods for solving PDEs and designing stable and accelerated optimization algorithms. In particular, my work focuses on energy-stable acceleration frameworks that incorporate discrete energy dissipation principles into modern optimization methods.
+My work centers on improving the efficiency and accuracy of neural approaches to PDEs. 
+I develop scalable and adaptive algorithms based on random feature methods, 
+aiming to balance approximation quality and computational cost, 
+and to improve robustness for multiscale problems and PDEs with low-regularity solutions.
 
-My research spans both theoretical analysis and practical algorithms, with applications to PDE solvers, deep learning optimization, and scientific computing problems.
+In parallel, I study optimization methods inspired by energy dissipation principles, 
+designing stable and accelerated schemes with improved robustness in nonconvex settings.
