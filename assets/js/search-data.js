@@ -476,7 +476,21 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=user=5g3_X1UAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=5g3_X1UAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
+        },
+      },{
+        id: 'social-google_scholar_logo',
+        title: 'Google_scholar_logo',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com.hk/citations?user=5g3_X1UAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
