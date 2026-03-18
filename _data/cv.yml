@@ -138,24 +138,24 @@ cv:
         authors: 
           - M. Weng, Z. Mao, J. Shen
         publisher: SIAM Journal on Scientific Computing
-        date: 2026
+        releaseDate: 2026-01-02
         summary: A neural-network-based framework with error control for solving nonlinear and low-regularity PDEs.
 
       - title: Energy-Stabilized Acceleration for Robust Optimization
         authors:
           - M. Weng, X. Liu, Z. Mao, J. Shen
-        publisher: Submitted (2026)
-        date: 2026
+        publisher: 
+        releaseDate: Submitted (2026)
         summary: Development of energy-stable accelerated optimization methods for improved convergence and robustness.
 
       - title: A Semi-Bijective Algorithm for Saturated Extended 2-Regular Simple Stacks
         authors:
           - Q. Guo, Y. Jin, L. H. Sun, M. Weng
         publisher: Advances in Applied Mathematics
-        date: 2023
+        releaseDate: 2023-02-09
         summary: A combinatorial algorithm for counting structures related to RNA configurations.
 
-        
+
     Skills:
       - name: Research Areas
         icon: fa-solid fa-tag
