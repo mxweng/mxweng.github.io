@@ -1,31 +1,35 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-# email: mxweng22@sjtu.edu.com # disable built-in icon when using custom logo entries below
+cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+email: mxweng22@sjtu.edu.com # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: 5g3_X1UAAAAJ # keep this for scholar-based citations/features
+scholar_userid: user=5g3_X1UAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
 
-email_logo:
-	logo: https://cdn.simpleicons.org/gmail/EA4335 # official logo style
-	title: Email
-	url: mailto:mxweng22@sjtu.edu.com
+# email_logo:
+# 	logo: https://cdn.simpleicons.org/gmail/EA4335 # official logo style
+# 	title: Email
+# 	url: mailto:mxweng22@sjtu.edu.com
 
-google_scholar_logo:
-	logo: https://cdn.simpleicons.org/googlescholar/4285F4 # official logo style
-	title: Google Scholar
-	url: https://scholar.google.com/citations?user=5g3_X1UAAAAJ
+# google_scholar_logo:
+# 	logo: https://cdn.simpleicons.org/googlescholar/4285F4 # official logo style
+# 	title: Google Scholar
+# 	url: https://scholar.google.com/citations?user=5g3_X1UAAAAJ
 
-# Replace placeholders below with your real IDs/usernames.
-orcid_logo:
-	logo: https://cdn.simpleicons.org/orcid/A6CE39 # official logo style
-	title: ORCID
-	url: https://orcid.org/0000-0000-0000-0000
+# # Replace placeholders below with your real IDs/usernames.
+# orcid_logo:
+# 	logo: https://cdn.simpleicons.org/orcid/A6CE39 # official logo style
+# 	title: ORCID
+# 	url: https://orcid.org/0000-0000-0000-0000
 
-researchgate_logo:
-	logo: https://cdn.simpleicons.org/researchgate/00CCBB # official logo style
-	title: ResearchGate
-	url: https://www.researchgate.net/profile/your-profile-name
+# researchgate_logo:
+# 	logo: https://cdn.simpleicons.org/researchgate/00CCBB # official logo style
+# 	title: ResearchGate
+# 	url: https://www.researchgate.net/profile/your-profile-name
