@@ -134,13 +134,13 @@ cv:
         awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Deep Collocation Method: A Framework for Solving PDEs Using Neural Networks with Error Control
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretat
+          - M. Weng, Z. Mao, J. Shen
+        publisher: SIAM Journal on Scientific Computing
+        releaseDate: 2026-01-02
+        url: https://epubs.siam.org/doi/abs/10.1137/25M1739753
+        summary: A neural-network-based framework that constructs adaptive basis functions for the efficient and accurate solution of multiscale PDEs and PDEs with low-regularity solutions.
       # - title: Deep Collocation Method: A Framework for Solving PDEs Using Neural Networks with Error Control
       #   authors:
       #     - M. Weng
