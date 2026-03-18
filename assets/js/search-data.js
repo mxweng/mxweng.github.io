@@ -458,13 +458,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=5g3_X1UAAAAJ", "_blank");
-        },
-      },{
         id: 'social-email_logo',
         title: 'Email_logo',
         section: 'Socials',
@@ -476,14 +469,21 @@ ninja.data = [{
         title: 'Orcid_logo',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0000-0000-0000", "_blank");
+          window.open("https://orcid.org/0000-0003-1264-4236", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user={"value"=>"5g3_X1UAAAAJ", "logo"=>"https://cdn.simpleicons.org/googlescholar/4285F4.svg"}", "_blank");
         },
       },{
         id: 'social-researchgate_logo',
         title: 'Researchgate_logo',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/your-profile-name", "_blank");
+          window.open("https://www.researchgate.net/profile/Mingxing-Weng", "_blank");
         },
       },{
       id: 'light-theme',
