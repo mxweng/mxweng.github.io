@@ -134,26 +134,41 @@ Curriculum Vitae:
         awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
     Publications:
-      - title: Deep Collocation Method: A Framework for Solving PDEs Using Neural Networks with Error Control
-        authors: 
-          - M. Weng, Z. Mao, J. Shen
-        publisher: SIAM Journal on Scientific Computing
-        releaseDate: 2026-01-02
-        summary: A neural-network-based framework with error control for solving nonlinear and low-regularity PDEs.
-
-    #   - title: Energy-Stabilized Acceleration for Robust Optimization
-    #     authors:
-    #       - M. Weng, X. Liu, Z. Mao, J. Shen
-    #     publisher: 
-    #     releaseDate: Submitted (2026)
-    #     summary: Development of energy-stable accelerated optimization methods for improved convergence and robustness.
-
-      - title: A Semi-Bijective Algorithm for Saturated Extended 2-Regular Simple Stacks
+      - title: Zur Elektrodynamik bewegter Körper
         authors:
-          - Q. Guo, Y. Jin, L. H. Sun, M. Weng
-        publisher: Advances in Applied Mathematics
-        releaseDate: 2023-02-09
-        summary: A combinatorial algorithm for counting structures related to RNA configurations.
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretat
+      # - title: Deep Collocation Method: A Framework for Solving PDEs Using Neural Networks with Error Control
+      #   authors:
+      #     - M. Weng
+      #     - Z. Mao
+      #     - J. Shen
+      #   journal: SIAM Journal on Scientific Computing
+      #   date: 2026-01-02
+      #   summary: A neural-network-based framework build adaptive basis functions for efficiently and accurately solving multiscale and low-regularity PDEs.
+
+      # - title: Energy-Stabilized Acceleration for Robust Optimization
+      #   authors:
+      #     - M. Weng
+      #     - X. Liu
+      #     - Z. Mao
+      #     - J. Shen
+      #   journal: Submitted (2026)
+      #   date: 2026-01-01
+      #   summary: Development of energy-stable accelerated optimization methods for improved convergence and robustness.
+
+      # - title: A Semi-Bijective Algorithm for Saturated Extended 2-Regular Simple Stacks
+      #   authors:
+      #     - Q. Guo
+      #     - Y. Jin
+      #     - L. H. Sun
+      #     - M. Weng
+      #   journal: Advances in Applied Mathematics
+      #   date: 2023-02-09
+      #   summary: A combinatorial algorithm for counting structures related to RNA configurations.
 
     Skills:
       - name: Research Areas
