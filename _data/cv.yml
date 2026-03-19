@@ -4,7 +4,7 @@ cv:
   email: mxweng22@sjtu.edu.com
   location: 2911 Haijiang Avenue, Zhenhai District, Ningbo, Zhejiang Province, China
   image: ""
-  summary: I am a PhD student in Mathematics at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo. My research interests include scientific machine learning, optimization methods and their applications.
+  summary: I am a PhD student in Computational Mathematics at Shanghai Jiao Tong University and Eastern Institute of Technology, Ningbo. My research interests include scientific machine learning, numerical PDEs, optimization methods and their applications.
 
   # social_networks:
   #   - network: X
@@ -26,26 +26,24 @@ cv:
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
         url: https://www.sjtu.edu.cn/
-        area: Mathematics
+        area: Computational Mathematics
         studyType: PhD
         start_date: 2022
         end_date: present
         # score: ""
         # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - Advisor: [Prof. Shi Jin](https://ins.sjtu.edu.cn/people/shijin/)
 
       - institution: Eastern Institute of Technology, Ningbo
         location: Zhejiang, China
         url: https://www.eitech.edu.cn/
-        area: Mathematics, Numerical PDEs and Scientific Machine Learning
+        area: Computational Mathematics, Numerical PDEs and Scientific Machine Learning
         studyType: PhD
         start_date: 2022
         end_date: present
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - "Advisors: [Prof. Jie Shen](https://www.math.purdue.edu/~shen7/), [Prof. Zhiping Mao](https://scholar.google.com/citations?user=XP0n5lEAAAAJ&hl=en&oi=ao)"
 
       - institution: Nankai University
         location: Tianjin, China
@@ -158,27 +156,27 @@ cv:
         summary: A combinatorial algorithm for counting structures related to RNA configurations.
 
     Skills:
-      - name: Research Areas
-        icon: fa-solid fa-tag
-        keywords: "Scientific Machine Learning, Numerical PDEs, Optimization Algorithms"
-
       - name: Programming
         # level: Master
         icon: fa-solid fa-tag
         keywords: "Python (PyTorch), MATLAB, Maple, LaTeX"
 
-    Languages:
-      - name: Chinese
-        icon: fa-solid fa-thumbtack
-        summary: "Native speaker"
+      - name: Languages
+        icon: fa-solid fa-tag
+        keywords: "Chinese (Native speaker), English (Professional working proficiency), Japanese (Basic proficiency)"
 
-      - name: English
-        icon: fa-solid fa-thumbtack
-        summary: "Professional working proficiency (TOEFL: 85, CET-6: 507)"
+    # Languages:
+    #   - name: Chinese
+    #     icon: fa-solid fa-thumbtack
+    #     summary: "Native speaker"
 
-      - name: Japanese
-        icon: fa-solid fa-thumbtack
-        summary: "Basic proficiency"
+    #   - name: English
+    #     icon: fa-solid fa-thumbtack
+    #     summary: "Professional working proficiency (TOEFL: 85, CET-6: 507)"
+
+    #   - name: Japanese
+    #     icon: fa-solid fa-thumbtack
+    #     summary: "Basic proficiency"
 
     # Interests:
     #   - name: Physics
