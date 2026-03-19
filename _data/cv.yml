@@ -33,7 +33,7 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - Advisor: [Prof. Shi Jin](https://ins.sjtu.edu.cn/people/shijin/)
+          - "Advisor: [Prof. Shi Jin](https://ins.sjtu.edu.cn/people/shijin/)"
 
       - institution: Eastern Institute of Technology, Ningbo
         location: Zhejiang, China
