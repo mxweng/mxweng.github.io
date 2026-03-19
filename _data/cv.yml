@@ -33,7 +33,7 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - "Advisor: [Prof. Shi Jin](https://ins.sjtu.edu.cn/people/shijin/)"
+          - "Advisor: Prof. [Shi Jin](https://ins.sjtu.edu.cn/people/shijin/)"
 
       - institution: Eastern Institute of Technology, Ningbo
         location: Zhejiang, China
@@ -43,7 +43,7 @@ cv:
         start_date: 2022
         end_date: present
         highlights:
-          - "Advisors: [Prof. Jie Shen](https://www.math.purdue.edu/~shen7/), [Prof. Zhiping Mao](https://scholar.google.com/citations?user=XP0n5lEAAAAJ&hl=en&oi=ao)"
+          - "Advisors: Prof. [Jie Shen](https://www.math.purdue.edu/~shen7/), Prof. [Zhiping Mao](https://scholar.google.com/citations?user=XP0n5lEAAAAJ&hl=en&oi=ao)"
 
       - institution: Nankai University
         location: Tianjin, China
@@ -163,7 +163,7 @@ cv:
 
       - name: Languages
         icon: fa-solid fa-tag
-        keywords: "Chinese (Native speaker), English (Professional working proficiency), Japanese (Basic proficiency)"
+        keywords: "Chinese (Native speaker), English (Professional working proficiency), Japanese (Beginner)"
 
     # Languages:
     #   - name: Chinese
