@@ -31,7 +31,7 @@ and [Eastern Institute of Technology, Ningbo](https://www.eitech.edu.cn/).
 My research focuses on scientific machine learning, numerical partial differential equations (PDEs), and optimization.
 
 My work centers on improving the efficiency and accuracy of neural approaches to PDEs. 
-I develop scalable and adaptive algorithms based on random feature methods, 
+I develop adaptive algorithms based on random feature methods, 
 aiming to balance approximation quality and computational cost, 
 and to improve robustness for multiscale problems and PDEs with low-regularity solutions.
 
